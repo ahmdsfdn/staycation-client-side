@@ -1,0 +1,6 @@
+{
+    "compilerOptions" : {
+        "baseUrl" : "src"
+    },
+    "innpm cache clean --forcelude": ["src/**/*"]
+}
